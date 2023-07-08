@@ -6,10 +6,8 @@ set linebreak
 
 
 set autochdir
-cd ~/Desktop/ego-machine-pages
-"
 
 
 
-""Type Lw at the : when doing journal (jo). This uploads it to git.
-" command Lw w | !git add % && git commit % -m "Checkin %" && git push
+""Type Lw to upload  to git.
+command Lw | !git add % && git commit % -m "Checkin %" && git push

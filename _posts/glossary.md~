@@ -1,5 +1,5 @@
 ---
-title: "Glossary of terms used in the 6578rnd1/2 and 6578Srnd simulcra" 
+title: "Glossary of terms used in the 6578rnd1/2 and 6578Srnd simulcra." 
 date: 2023-07-14
 ---
 

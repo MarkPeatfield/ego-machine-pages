@@ -1,5 +1,5 @@
 ---
-title: "A Creation Myth."
+title: "A Creation Story"
 date: 2023-07-23
 ---
 
